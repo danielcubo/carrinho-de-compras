@@ -1,0 +1,26 @@
+{
+  "name": "carrinho-de-compras",
+  "version": "1.0.0",
+  "description": "Projeto Node JS para praticar o conhecimento de módulos",
+  "keywords": [ "e-commerce" ],
+  "homepage": "https://github.com/danielcubo/carrinho-de-compras#readme",
+  "bugs":
+    {
+      "url": "https://github.com/danielcubo/carrinho-de-compras/issues"
+    },
+  "repository":
+    {
+      "type": "git",
+      "url": "git+https://github.com/danielcubo/carrinho-de-compras.git"
+    },
+  "license": "ISC",
+  "author": "Daniel F. Cubo",
+  "contributors": [ "DIO como plataforma de ensino", "Felipe Aguiar como Intrutor"],
+  "type": "module",
+  "main": "app.js",
+  "scripts":
+    {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node src/app.js"
+    }
+}
